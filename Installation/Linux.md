@@ -1,5 +1,5 @@
 ## Mettez à jour le cache des paquets :
-sudo apt-get update
+```sudo apt-get update```
 
 ## Installez Docker (si ce n'est pas déjà fait) :
 sudo apt-get install docker.io
